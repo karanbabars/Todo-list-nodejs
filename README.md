@@ -5,7 +5,7 @@ cd folder
 git clone url
 cd TOdo-list-nodejs
 
-building the docker-image
+used to build a Docker image from a Dockerfile and assign it a name (getting-started).
 docker build -t getting-started .
 
 running 
